@@ -1,3 +1,17 @@
+## Custom Gitignore rules
+
+# Ingore JetBrains IDE files
+.idea
+**/.idea
+
+
+## Default Gitignore files
+
+# Default Gitignore for C programming
+# Source: https://github.com/github/gitignore/blob/master/C.gitignore
+# Added: 2020/04/01
+# Updated: 2020/04/14
+
 # Prerequisites
 *.d
 
